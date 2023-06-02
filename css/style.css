@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: Arial, sans-serif;
+    transition: .5s all;
+  }
+  
+  header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  
+  .dark-mode {
+    background-color: #333;
+    transition: .5s all;
+    color: #f5f5f5;
+  }
+  #dark-mode-toggle{
+    border: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    background-color: #333;
+  }
